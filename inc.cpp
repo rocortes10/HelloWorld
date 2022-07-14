@@ -5,4 +5,4 @@ using namespace std;
 void ClaseBase::unMetodo(void)
 {
     unaVar++;
-    cout<<"
+    
